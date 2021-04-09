@@ -7,7 +7,7 @@ The program evaluates a weighted moving average (WMA) method to forecast Western
 
 **Results**
 
-comments to be entered here
+A line graph of actual retail sales by category (only clothes and hobby used for this evaluation) shows a consistent seasonal pattern across all provinces.  
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/01_Western_Canada_Retail_Sales.JPG)
 
