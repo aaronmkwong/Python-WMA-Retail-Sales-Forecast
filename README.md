@@ -1,7 +1,7 @@
 # Python-WMA-Retail-Sales-Forecast
 
 
-**Purpose**
+**Purpose & Summary**
 
 comments to be entered here
 
