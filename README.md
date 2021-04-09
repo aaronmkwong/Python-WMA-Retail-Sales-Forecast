@@ -35,8 +35,6 @@ comments to be entered here
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/06_Actual_Forecast_MAPE.JPG)
 
-comments to be entered here
-
 **Data Sources**
 
 Statistics Canada via the Web Data Service (API database access) using the vector IDs specific for clothes and hobby retail sales for the provinces of BC, AB, SK and MB. 
