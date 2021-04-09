@@ -27,7 +27,7 @@ comments to be entered here
 
 comments to be entered here
 
-![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/05_%_Error_Distribution.JPG)
+![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/05_Error_Distribution.JPG)
 
 comments to be entered here
 
