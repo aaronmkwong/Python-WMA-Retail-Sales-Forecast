@@ -11,7 +11,7 @@ A line graph of actual retail sales by category (only clothes and hobby used for
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/01_Western_Canada_Retail_Sales.JPG)
 
-The seasonality factors are displayed in a data frame with a colour gradient to highlight the monthly variation in sales, consistent with winter holiday shopping.   
+The seasonality factors are displayed in a data frame with a colour gradient to highlight the monthly variation in sales, consistent with significant winter holiday shopping.   
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/02_Seasonality_Factors.JPG)
 
