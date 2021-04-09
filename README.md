@@ -27,7 +27,7 @@ Alberta Hobby with a 2 month moving average and weights of 0.9 and 0.1 was the l
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/04_Summary_Statistics_Forecast.JPG)
 
-comments to be entered here
+The monthly MAPE observations are grouped in bins incrementing by 2.5 in histograms to illustrate the standard deviation values for the most accurate scenarios.  
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/05_Error_Distribution.JPG)
 
