@@ -15,7 +15,7 @@ The seasonality factors are displayed in a data frame with a colour gradient to 
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/02_Seasonality_Factors.JPG)
 
-comments to be entered here
+A line graph of deseasonalized actual retail sales shows the remaining trend and cycle components of the time series.  
 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/03_Deasonalized_Sales.JPG)
 
