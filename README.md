@@ -32,6 +32,7 @@ The count of observations are grouped in bins incrementing by 2.5 in histograms 
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/05_Error_Distribution.JPG)
 
 Line and broken line graphs of actual (blue) and forecast (orange) sales are displayed with a bar chart of MAPE values (dark grey).    
+
 ![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/06_Actual_Forecast_MAPE.JPG)
 
 **Data Sources**
