@@ -3,12 +3,17 @@
 
 **Purpose**
 
+comments to be entered here
 
 
 
 **Results & Visualizations**
 
+comments to be entered here
 
+![alt text](https://github.com/aaronmkwong/Python-WMA-Retail-Sales-Forecast/blob/main/Images/01_Western_Canada_Retail_Sales.JPG)
+
+comments to be entered here
 
 
 **Data Sources**
