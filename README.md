@@ -3,7 +3,7 @@
 
 **Purpose**
 
-The program evaluates a weighted moving average (WMA) method to forecast Western Canada (BC, AB, SK, MB) retail sales for the period 2017 to 2019 by month. Mean absolute percentage error (MAPE) is used to evaluate all forecast scenario combinations of 2, 3, 4, 5 and 6 month moving averages and 0.1 incremented weightings, e.g. 3 month moving average with weights of 0.1, 0.2 and 0. 7. Before WMA is used to forecast, sales are deseasonalized using the ratio-to-moving-average method and a seasonality factor is determined. The seasonality factor is then applied to the deseasonalized sales forecast values to arrive at the final sales forecast values.
+The program evaluates a weighted moving average (WMA) method to forecast Western Canada (BC, AB, SK, MB) retail sales for the period 2017 to 2019 by month. Mean absolute percentage error (MAPE) is used to evaluate all forecast scenario combinations of 2, 3, 4, 5 and 6 month moving averages and 0.1 incremented weightings, e.g. 3 month moving average with weights of 0.1, 0.2 and 0.7. Before WMA is used to forecast, sales are deseasonalized using the ratio-to-moving-average method and a seasonality factor is determined. The seasonality factor is then applied to the deseasonalized sales forecast values to arrive at the final sales forecast values.
 
 **Results**
 
